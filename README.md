@@ -40,8 +40,7 @@ The template uses html for controlling the content and css for controlling the s
 
 - Teaser video
 - Image carousel
-- YouTube video embedding
-- Video carousel
+
 
 ## Customization
 
